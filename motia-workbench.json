@@ -1,0 +1,124 @@
+[
+  {
+    "id": "research-assistant",
+    "config": {
+      "steps//webhook-simulator.step.ts": {
+        "x": 1467,
+        "y": 7
+      },
+      "steps//uploadPaper.step.ts": {
+        "x": 1712,
+        "y": 0
+      },
+      "steps//serveStatic.step.ts": {
+        "x": 2015,
+        "y": 0
+      },
+      "steps//serveCss.step.ts": {
+        "x": 2276,
+        "y": 0
+      },
+      "steps//research-monitor.step.ts": {
+        "x": 0,
+        "y": 788
+      },
+      "steps//recommendRelatedPapers.step.ts": {
+        "x": 828,
+        "y": 644
+      },
+      "steps//queryPaper.step.ts": {
+        "x": 2545,
+        "y": 0
+      },
+      "steps//queryConcepts.step.ts": {
+        "x": 2784,
+        "y": 0
+      },
+      "steps//human-review.step.ts": {
+        "x": 2409,
+        "y": 1022
+      },
+      "steps//generateSummaryWithGemini.step.ts": {
+        "x": 173,
+        "y": 644
+      },
+      "steps//generateSummary.step.ts": {
+        "x": 547,
+        "y": 644
+      },
+      "steps//generateMarkdownReport.step.ts": {
+        "x": 526,
+        "y": 833
+      },
+      "steps//generateCodeExamples.step.ts": {
+        "x": 1457,
+        "y": 644
+      },
+      "steps//extractText.step.ts": {
+        "x": 1610,
+        "y": 212
+      },
+      "steps//extractEnhancedConcepts.step.ts": {
+        "x": 2749,
+        "y": 644
+      },
+      "steps//extractConceptsWithGemini.step.ts": {
+        "x": 1783,
+        "y": 644
+      },
+      "steps//extractConcepts.step.ts": {
+        "x": 2147,
+        "y": 644
+      },
+      "steps//evaluateResearchImpact.step.ts": {
+        "x": 1795,
+        "y": 500
+      },
+      "steps//buildKnowledgeGraph.step.ts": {
+        "x": 1722,
+        "y": 833
+      },
+      "steps//buildEnhancedKnowledgeGraph.step.ts": {
+        "x": 3159,
+        "y": 833
+      },
+      "steps//analyzeResults.step.ts": {
+        "x": 3073,
+        "y": 644
+      },
+      "steps//analyzeResearchGaps.step.ts": {
+        "x": 1158,
+        "y": 644
+      },
+      "steps//analyzeRelatedLiterature.step.ts": {
+        "x": 2431,
+        "y": 644
+      },
+      "steps//analyzePaperWithGemini.step.ts": {
+        "x": 1422,
+        "y": 356
+      },
+      "steps//analyzePaper.step.ts": {
+        "x": 1754,
+        "y": 356
+      },
+      "steps//analyzeMethodology.step.ts": {
+        "x": 3330,
+        "y": 644
+      },
+      "steps//analyzeImplementationDetails.step.ts": {
+        "x": 3627,
+        "y": 644
+      },
+      "steps//analyzeCoreConcepts.step.ts": {
+        "x": 3980,
+        "y": 644
+      },
+      "steps//analyzeBenchmarks.step.ts": {
+        "x": 4279,
+        "y": 644
+      }
+    }
+  }
+]
+

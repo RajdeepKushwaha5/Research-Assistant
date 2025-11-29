@@ -1,0 +1,1 @@
+(Get-Content -Path 'dist/router.ts' -Raw) -replace '\\', '/' | Set-Content -Path 'dist/router.ts'

@@ -1,0 +1,28 @@
+{
+    "name": "research-assistant",
+    "description": "Research Assistant for academic papers",
+    "scripts": {
+        "postinstall": "motia install",
+        "dev": "motia dev",
+        "dev:debug": "motia dev --verbose",
+        "generate-types": "motia generate-types",
+        "build": "build.bat",
+        "clean": "rm -rf dist node_modules python_modules .motia .mermaid"
+    },
+    "keywords": [
+        "motia"
+    ],
+    "dependencies": {
+        "@google/generative-ai": "^0.24.1",
+        "dotenv": "^16.5.0",
+        "motia": "^0.5.5-beta.113",
+        "react": "^19.0.0",
+        "zod": "^3.25.67"
+    },
+    "devDependencies": {
+        "@types/node": "^22.15.3",
+        "@types/react": "^18.3.23",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.8.3"
+    }
+}
